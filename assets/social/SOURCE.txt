@@ -1,0 +1,4 @@
+Brand glyphs: Simple Icons (CC0), retrieved from the project's develop branch.
+https://github.com/simple-icons/simple-icons
+Files: instagram.svg, telegram.svg, tiktok.svg, facebook.svg, youtube.svg, whatsapp.svg.
+Brand names and logos remain trademarks of their respective owners.
