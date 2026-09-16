@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /erro/
+
+Sitemap: https://kepptrust.vercel.app/sitemap.xml
